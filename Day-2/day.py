@@ -1,1 +1,0 @@
-print("How was your day?")
